@@ -1,4 +1,5 @@
-const Logger = require('./logger');
+import { Logger } from './logger.mjs'
+
 const logger = new Logger();
 
 logger.on('messageLogged', (e) => {

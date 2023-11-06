@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "my-first-nodejs-app",
   "version": "1.0.0",
   "description": "",
